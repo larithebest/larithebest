@@ -1,11 +1,11 @@
 ### Hi there 👋
-
-<!--
+Bem vindo !! Estou estudando na alura. Estou me desenvolvendo na linguagem Javascript
+<!--estou
 **larithebest/larithebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+lari santos
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ me desenvolvendo na linguagem Javascript
+- 🔭 I’m currentestouly working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
